@@ -2,14 +2,14 @@
 
 Features
 
-Responsive Design.
+-Responsive Design.
 
-clean code and improved readability.
+-clean code and improved readability.
 
-flexible and Scalable code that we can add new features easily.
+-flexible and Scalable code that we can add new features easily.
 
-Smooth Transations.
+-Smooth Transations.
 
-Hardcode Avoided.
+-Hardcode Avoided.
 
 Deployment link :https://asiya18.github.io/TASK-1/
